@@ -1,24 +1,27 @@
-# SafeServe-FIR-Management-System
-Overview
+# FIR Management System
 
-The FIR Management System is a web-based platform designed to streamline the process of lodging and managing FIRs. Users can register, log in, lodge FIRs, track their status, and view details. Administrators can log in to approve or reject FIRs. A chatbot is integrated to enhance user experience. The system uses XAMPP and PHPMyAdmin for backend management.
+## Overview
+The **FIR Management System** is a web-based platform that simplifies the process of lodging and managing FIRs.  
+- Users can **register, log in, lodge FIRs**, track their status, and view details.  
+- Administrators can **approve or reject FIRs** through a dedicated dashboard.  
+- Integrated **chatbot** for enhanced user experience.  
+- Built using **XAMPP** with **PHPMyAdmin** for backend management.  
 
-Features
-User and Admin Login System.
-Users can lodge, track, and view FIRs.
-Admins can approve or reject FIRs.
-Integrated chatbot for better user interaction.
+## Features
+- **User and Admin Login System**  
+- **Lodge, Track, and View FIRs** (User)  
+- **Approve/Reject FIRs** (Admin)  
+- Integrated **Chatbot** for better interaction  
 
-Tech Stack
-Frontend: HTML, CSS, JavaScript
-Backend: PHP, PHPMyAdmin (via XAMPP)
-Database: MySQL
+## Tech Stack
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL (via PHPMyAdmin on XAMPP)  
 
-Creators
-Developed by Biprajeet Sen and Amritangshu Dey.
-
-
-
+## Authors
+Created by:  
+- **Biprajeet Sen**  
+- **Amritangshu Dey**  
 
 
 
