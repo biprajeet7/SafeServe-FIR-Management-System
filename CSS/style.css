@@ -1,0 +1,52 @@
+
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.content {
+  flex: 1;
+  /* Your content styles here */
+}
+
+footer {
+  background-color: #312e2e;
+  color: #ac1698;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-links li {
+  margin: 5px;
+}
+
+.footer-links li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.help-desk h3,
+.help-desk p {
+  color: #fff;
+  margin: 5px 0;
+  text-align: center;
+}
+
